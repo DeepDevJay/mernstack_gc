@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[847],{7847:function(r,e,n){n.r(e);var i=n(4554),a=n(890),l=n(7689),s=n(184);e.default=function(){var r=(0,l.lk)();return console.log(r),(0,s.jsx)(i.Z,{style:{marginLeft:250},children:(0,s.jsx)(a.Z,{variant:"h4",children:"This Error is a Loading page Error"})})}}}]);
+//# sourceMappingURL=847.19a35e7d.chunk.js.map
